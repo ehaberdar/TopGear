@@ -629,7 +629,7 @@ h1 {
 /* ============================ HERO START ================================= */
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("../img/banner-bg.webp") no-repeat 50% / cover var(--neatural-gray);
+    url("../img/img01.png") no-repeat 50% / cover var(--neatural-gray);
   padding: 300px 0;
 }
 /* ============================ HERO END ================================= */
